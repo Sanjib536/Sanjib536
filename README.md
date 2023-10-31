@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sanjib536
 - 👀 I’m interested in front and backend development
-- 🌱 I’m currently learning java and php
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java with DSA 
 - 📫 How to reach me sanjibb536@gmail.com
 
 
